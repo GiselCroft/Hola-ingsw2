@@ -1,0 +1,9 @@
+#include <iostream.h>
+#include <stdlib.h>
+
+int main()
+{
+      cout<<"Hola Mundo";
+      system("PAUSE");
+      return 0;
+}      
